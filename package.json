@@ -1,0 +1,28 @@
+{
+  "name": "file-stream-save",
+  "version": "1.0.1",
+  "description": "File data stream storage",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "cd ./test &&node test.js"
+  },
+  "keywords": [
+    "Receive",
+    "the",
+    "file",
+    "stream",
+    "and",
+    "store",
+    "it"
+  ],
+  "author": "Andy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "@webpack-cli/generators": "^2.2.0",
+    "babel-loader": "^8.2.2",
+    "webpack": "4.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
