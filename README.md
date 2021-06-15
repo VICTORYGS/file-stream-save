@@ -122,8 +122,6 @@ fileSave(req,fileObj => {
 ```
 
 
-axios is heavily inspired by the [$http service](https://docs.angularjs.org/api/ng/service/$http) provided in [Angular](https://angularjs.org/). Ultimately axios is an effort to provide a standalone `$http`-like service for use outside of Angular.
-
 ## License
 
 [MIT](LICENSE)

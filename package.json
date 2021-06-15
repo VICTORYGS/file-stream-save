@@ -1,6 +1,6 @@
 {
   "name": "file-stream-save",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "File data stream storage",
   "main": "./dist/index.js",
   "scripts": {
